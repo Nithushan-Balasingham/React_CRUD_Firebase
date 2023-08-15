@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/React_CRUD_Firebase/static/css/main.dc42d7e6.css",
+    "main.js": "/React_CRUD_Firebase/static/js/main.402e3170.js",
+    "index.html": "/React_CRUD_Firebase/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.dc42d7e6.css",
+    "static/js/main.402e3170.js"
+  ]
+}
