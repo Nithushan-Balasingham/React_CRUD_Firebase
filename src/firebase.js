@@ -5,12 +5,12 @@ import {getStorage} from "firebase/storage"
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDo6FEOTn6NlAxtD2BLEemIbYCoJbMQNfs",
-  authDomain: "react-f5efb.firebaseapp.com",
-  projectId: "react-f5efb",
-  storageBucket: "react-f5efb.appspot.com",
-  messagingSenderId: "814142718312",
-  appId: "1:814142718312:web:0ce3ee5699dab9cbfe56dd"
+  apiKey: " ",
+  authDomain: " ",
+  projectId: " ",
+  storageBucket: " ",
+  messagingSenderId: " ",
+  appId: " "
 };
 
 
